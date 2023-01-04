@@ -1,9 +1,6 @@
 # excel-utility-scripts
 A set of common VBA and TypeScript scripts useful for daily Excel automation projects.
 
-## Keywords
-Excel ; VBA ; Typescript ; Macro ; Office Scripts ; Excel for the web ; Excel desktop ; Office Visual Basic for Applications
-
 ## Repository structure
 There are two types of scripts on this repository :
 
