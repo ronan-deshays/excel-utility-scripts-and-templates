@@ -8,7 +8,7 @@ Excel ; VBA ; Typescript ; Macro ; Office Scripts ; Excel for the web ; Excel de
 There are two types of scripts on this repository :
 
 * [VBA scripts](https://learn.microsoft.com/en-us/office/vba/api/overview/) which are only compatible with desktop versions of Excel. These scripts are written in Visual Basic language and stored in ".bas" text files.
-* [Office scripts](https://learn.microsoft.com/en-us/office/dev/scripts/develop/scripting-fundamentals) which are only compatible with web versions of Excel and some desktop versions (require consistent internet connection and that file is located on OneDrive). These scripts are written in TypeScript language and stored in ".osts" text files.
+* [Office scripts](https://learn.microsoft.com/en-us/office/dev/scripts/develop/scripting-fundamentals) which are only compatible with web versions of Excel and some desktop versions (require consistent internet connection and that file is located on OneDrive). These scripts are written in TypeScript language and stored in ".ts" text files.
 
 ## Installation
 * VBA scripts must be imported from the VBA IDE (from Excel desktop : alt + F11)
