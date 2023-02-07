@@ -16,13 +16,16 @@ The scripts available on this repository are listed and explained below.
 
 ### VBA - gather sheets summary
 *related file : [GatherSheetsSummary.bas](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/GatherSheetsSummary.bas)*
+
 For each sheet in a workbook, gather a range located always in the same cell on each sheet. This range contains e.g. a summary of data contained in the active sheet. So that the juxtaposition of ranges makes a summary of the whole workbook.
 
 ### Office - array form to database
 *related file : [ArrayForm2Database.ts](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/ArrayForm2Database.ts)*
+
 Build and update a database based on an array form.
 More precisely, users fill the array form, and a script organize the data in a database (Excel table), which enables Pivot Tables or Power Platform usage of this data.
 
 ### Example - bypass pivot table data display limitation
 *related file : [PivotTableDataDisplay.xlsx](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/PivotTableDataDisplay.xlsx)*
+
 Excel pivot table feature obliges user to agregate data (using a sum or other functions), which is something impossible with text values or other specific types.
