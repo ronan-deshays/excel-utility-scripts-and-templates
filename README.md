@@ -1,5 +1,5 @@
 # excel-utility-scripts-and-templates
-A set of VBA and TypeScript scripts useful for daily Excel automation projects, and Excel template files to demonstrate specific use cases of excel formulas and features.
+A set of VBA, TypeScript and Python scripts useful for daily Excel automation projects, and Excel template files to demonstrate specific use cases of excel formulas and features.
 
 ## Repository structure
 Each file type correspond to a specific type of script or template :
@@ -29,3 +29,8 @@ More precisely, users fill the array form, and a script organize the data in a d
 *related file : [PivotTableDataDisplay.xlsx](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/PivotTableDataDisplay.xlsx)*
 
 Excel pivot table feature obliges user to agregate data (using a sum or other functions), which is something impossible with text values or other specific types.
+
+### Office - osts2ts
+*related file : [osts2ts.py](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/osts2ts.py)*
+
+Converts all non easy to read .osts files to readable .ts  files located in the same folder as the python script, and save them in a target folder of your choice. An OSTS file is created when saving an Office script to Onedrive, but it is saved as a JSON structure. This script helps converting this file to a "code editor friendly" file.
