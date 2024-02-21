@@ -6,6 +6,7 @@ Each file type correspond to a specific type of script or template :
 * [VBA scripts](https://learn.microsoft.com/en-us/office/vba/api/overview/) which are only compatible with desktop versions of Excel. These scripts are written in Visual Basic language and stored in ".bas" text files.
 * [Office scripts](https://learn.microsoft.com/en-us/office/dev/scripts/develop/scripting-fundamentals) which are only compatible with web versions of Excel and some desktop versions (require consistent internet connection and that file is located on OneDrive). These scripts are written in TypeScript language and stored in ".ts" text files.
 * Template or example excel files are compatible (with some [limitations](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)) with both Excel desktop and [Excel for the web](https://learn.microsoft.com/en-us/office365/servicedescriptions/office-online-service-description/excel-online). These files have a ".xlsx" (for examples) or ".xltx" (for templates) extension and are a zip archive of XML files, so make sure to download file to preview it.
+* [Python scripts](https://www.python.org/about/gettingstarted/) to easily automate files from outside. These scripts are stored in ".py" text files. Python is a free, easy and widespread programming language, with built in file management librairies.
 
 ## Installation
 * VBA scripts must be imported from the VBA IDE (from Excel desktop : alt + F11)
