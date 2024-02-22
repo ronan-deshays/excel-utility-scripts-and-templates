@@ -1,0 +1,11 @@
+# first formula 
+    # line intenting to enable 
+    # text editor to easily hide function content
+    =LIMITATION_SAMPLE(test1=test2)
+
+# other formula
+    =IF(
+        A1; # inline explanation example
+        A2;
+        A3
+    )
