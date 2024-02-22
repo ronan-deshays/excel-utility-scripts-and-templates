@@ -39,7 +39,7 @@ Excel pivot table feature obliges user to agregate data (using a sum or other fu
 Converts all non easy to read .osts files to readable .ts  files located in the same folder as the python script, and save them in a target folder of your choice. An OSTS file is created when saving an Office script to Onedrive, but it is saved as a JSON structure. This script helps converting this file to a "code editor friendly" file.
 
 ### Python - Excel Formula Parser - githubise Excel formulas
-*related folder : [ExcelFormulaParser](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/tree/master/ExcelFormulaParser)
+*related folder : [ExcelFormulaParser](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/tree/master/ExcelFormulaParser)*
 
 Enables versioning of Excel formulas, writing a formula on multiple lines and adding comments.
 The parsing process does the following :
