@@ -55,3 +55,8 @@ The parsing process does the following :
 **Known limitations :**
 * variable name containing space not supported
 * unable to make difference between formula begin and "=" sign in formula body
+
+### Template - Litterature review
+*related file : [litterature-review.xltx](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/litterature-review.xltx)*
+
+An Excel template with some simple useful formulas, to stay organized when doing a litterature review.
