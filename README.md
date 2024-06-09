@@ -22,6 +22,11 @@ The scripts available on this repository are listed and explained below.
 
 For each sheet in a workbook, gather a range located always in the same cell on each sheet. This range contains e.g. a summary of data contained in the active sheet. So that the juxtaposition of ranges makes a summary of the whole workbook.
 
+### VBA - range offset robust to merged cells
+*related file : [OffsetRobustToMerge.bas](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/OffsetRobustToMerge.bas)*
+
+Offset a range robustly, i.e. in a way that ignores merged cells.
+
 ### Office - array form to database
 *related file : [ArrayForm2Database.ts](https://github.com/ronan-deshays/excel-utility-scripts-and-templates/blob/main/ArrayForm2Database.ts)*
 
